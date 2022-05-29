@@ -1,0 +1,73 @@
+.vehicles{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    height: 150vh;
+}
+h3{
+   color: #2F6E8F;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 27px;
+    padding: .8em;
+}
+
+table th {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    border-collapse: collapse;
+    width:20%;
+    height: 4rem;
+    background-color:#E4E4E4;
+    text-align: center;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+  }
+
+  tr:nth-child(even) {background-color:  #F8F8F8;}
+
+  td{
+      color:#505050;
+      font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 19px;
+        text-align: center;
+  }
+ .pagesContainer{
+     display: flex;
+     flex-direction: row;
+     justify-content: flex-end;
+     padding-top:.3em;
+     padding-bottom: .2em;
+     padding-right: .3em;
+     background-color: #CDCDCD;
+ 
+    }
+ .topContainer{
+     display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+ }
+ .arrowButtens{
+     padding-left: .5em;
+ }
+ .arrowButtens button{
+     margin-left: .6em;
+     border:none;
+     background-color: transparent;
+     color:#969696;
+     font-size:large;
+     cursor: pointer;
+ }
+ .arrowButtens button:hover{
+        font-weight: 600;
+        color:#5f5d5d
+ }
+

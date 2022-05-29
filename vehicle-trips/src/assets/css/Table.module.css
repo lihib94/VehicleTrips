@@ -1,0 +1,15 @@
+.tableContainer {
+    overflow-y: scroll;
+    height: 88vh;
+    width: 35vw;
+}
+.ViewBtn{
+    border: none;
+    color:#2F6E8F;
+    font-family: Open Sans;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+    background-color: transparent;
+    cursor: pointer;
+}

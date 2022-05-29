@@ -1,0 +1,10 @@
+.tableContainer {
+    overflow-y: scroll;
+    height: 70vh;
+}
+.carNo{
+    color:#505050;
+    font-size: 14px;
+    font-weight: 400;
+    text-decoration: none;
+}
