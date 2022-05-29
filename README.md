@@ -2,10 +2,9 @@
 
 ## Description
 
-Vehicle Trips app displays the routes of 5 different cars deuring the 28 days of May.
+Vehicle Trips app displays the routes of 5 different cars during 28 days of May.
 Each car owns a different car plate, so you can choose from the main screen your desire car.
-In addition you can alo choose a specific route that you want the map to display.
-
+In addition you can also choose a specific route that you want the map to display.
 
 ## Installation
 - Download both "server" and "vehicle trips" folders
