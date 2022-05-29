@@ -12,6 +12,7 @@ In addition you can also choose a specific route that you want the map to displa
 - Run "npm install" on both projects to install all dependencies
 - Run "npm start" on both projects to start the app.
 
-## Files and Folders and explanation
+## Libraries and explanation
 - All CSS mudules are inside the "assets/css" folder
 - Using react router v6 to display the url with a specific car plate
+- Using "react-map-gl" library to display the map
